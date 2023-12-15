@@ -1,0 +1,1 @@
+This repository contains a series of assignments and a term project for an image processing course. Each assignment focuses on different aspects of image processing, and the term project involves advanced techniques and applications.
